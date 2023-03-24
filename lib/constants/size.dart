@@ -1,0 +1,1 @@
+double bottomIntialSize = 0.4;
